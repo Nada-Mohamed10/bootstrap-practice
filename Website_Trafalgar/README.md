@@ -28,13 +28,13 @@ Original Figma Design:
 - Font Awesome or similar icons (if used)
 
 ## 📁 Folder Structure
-trafalgar-landing-page/
+``` trafalgar-landing-page/
 ├── index.html
 ├── css/
 │ └── style.css
 ├── images/
 ├── README.md
-
+```
 ## 🚀 How to Use
 
 1. Clone or download this repository.
